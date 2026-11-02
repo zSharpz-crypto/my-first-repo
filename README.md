@@ -34,3 +34,4 @@ To run the demonstration script, execute `main.py` from your terminal:
 
 ```bash
 python main.py
+# my-first-repo
